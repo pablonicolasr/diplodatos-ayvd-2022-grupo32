@@ -1,9 +1,2 @@
-# grupo_32
-Integrantes: 
-Garay, Carolina del Valle;
-Ormaechea, Sebastián Gabriel;
-Ramos, Pablo Nicolás;
-Reviglio, Valentín;
-Siner, Magalí
-
+Repository for the resolution of the deliverables of the course "Data Analysis and Visualization". Diploma in Data Science, Machine Learning and its Applications. 2022. FAMAF, UNC, Argentina.
 
